@@ -1,2 +1,5 @@
 # Qiskit
 This is a short tutorial for a Qiskit starting up.
+
+including:
+1. 2022/02/24 Fix import Qiskit problem with jupyter due to different environment path.
